@@ -57,7 +57,7 @@ public class ArrayListDemo {
 	names.add("Shital");
 	names.add("Aakash");
 	names.add("Prachi");
-//	names.add(null);
+    //names.add("23");
 	names.add("Aakash");
 	names.add("Dilip");
     System.out.println(names );
